@@ -1,0 +1,6 @@
+# Creed Fragrance Crawler
+# Python 3.10 이상 필요
+
+scrapling[fetchers]==0.4.7   # 크롤러 코어 + StealthyFetcher (Playwright 기반)
+requests==2.33.1             # DeepL API 호출
+python-dotenv==1.2.2         # .env 파일 로드
