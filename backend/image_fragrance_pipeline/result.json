@@ -1,0 +1,365 @@
+{
+  "image_path": "1200147.jpg",
+  "image_keywords": {
+    "visual_summary": "청록색과 검은색 체크무늬 드레스를 입은 여성이 실내에서 포즈를 취하고 있습니다.",
+    "colors": [
+      "black",
+      "green",
+      "blue",
+      "pink",
+      "red"
+    ],
+    "objects": [
+      "handbag",
+      "dress",
+      "necklace"
+    ],
+    "scene": [
+      "indoor"
+    ],
+    "mood": [
+      "soft",
+      "romantic"
+    ],
+    "season": [
+      "spring"
+    ],
+    "time": [
+      "afternoon"
+    ],
+    "raw_keywords": [
+      "체크무늬",
+      "드레스",
+      "여성",
+      "실내",
+      "포즈",
+      "손가방",
+      "목걸이"
+    ]
+  },
+  "fragrance_keywords": {
+    "matched_triggers": [
+      "black",
+      "green",
+      "blue",
+      "pink",
+      "red",
+      "dress",
+      "handbag",
+      "necklace",
+      "indoor",
+      "romantic",
+      "soft",
+      "spring",
+      "afternoon",
+      "room",
+      "feminine"
+    ],
+    "scores": {
+      "families": [
+        {
+          "name": "FLORAL",
+          "score": 14.875
+        },
+        {
+          "name": "FRESH",
+          "score": 11.7
+        },
+        {
+          "name": "AMBERY",
+          "score": 4.95
+        }
+      ],
+      "subs": [
+        {
+          "name": "Soft Floral",
+          "score": 11.425
+        },
+        {
+          "name": "Floral",
+          "score": 7.25
+        },
+        {
+          "name": "Green",
+          "score": 5.525
+        },
+        {
+          "name": "Soft Amber",
+          "score": 3.4
+        },
+        {
+          "name": "Citrus",
+          "score": 2.4
+        },
+        {
+          "name": "Fruity",
+          "score": 2.3
+        }
+      ],
+      "components": [
+        {
+          "name": "Musk",
+          "score": 10.175
+        },
+        {
+          "name": "Absolute Rose",
+          "score": 10.0
+        },
+        {
+          "name": "Peony",
+          "score": 7.575
+        },
+        {
+          "name": "Iris",
+          "score": 6.1
+        },
+        {
+          "name": "Green Note",
+          "score": 4.55
+        },
+        {
+          "name": "Bergamot",
+          "score": 4.375
+        },
+        {
+          "name": "Absolute Jasmin",
+          "score": 1.9
+        },
+        {
+          "name": "Berry, Apple, Peach",
+          "score": 1.8
+        },
+        {
+          "name": "Marine",
+          "score": 1.4
+        },
+        {
+          "name": "Ozonic",
+          "score": 1.2
+        }
+      ],
+      "components_ko": [
+        {
+          "name": "머스크",
+          "score": 10.175
+        },
+        {
+          "name": "앱솔루트 로즈",
+          "score": 10.0
+        },
+        {
+          "name": "피오니",
+          "score": 7.575
+        },
+        {
+          "name": "아이리스",
+          "score": 6.1
+        },
+        {
+          "name": "그린노트",
+          "score": 4.55
+        },
+        {
+          "name": "베르가못",
+          "score": 4.375
+        },
+        {
+          "name": "앱솔루트 자스민",
+          "score": 1.9
+        },
+        {
+          "name": "베리, 사과, 복숭아",
+          "score": 1.8
+        },
+        {
+          "name": "마린",
+          "score": 1.4
+        },
+        {
+          "name": "오조닉",
+          "score": 1.2
+        }
+      ],
+      "descriptors": [
+        {
+          "name": "부드러운",
+          "score": 9.65
+        },
+        {
+          "name": "우아한",
+          "score": 9.3
+        },
+        {
+          "name": "상쾌한",
+          "score": 5.525
+        },
+        {
+          "name": "밝은",
+          "score": 4.6
+        },
+        {
+          "name": "세련된",
+          "score": 4.15
+        },
+        {
+          "name": "감미로운",
+          "score": 3.8
+        },
+        {
+          "name": "신선한",
+          "score": 3.075
+        },
+        {
+          "name": "섬세한",
+          "score": 2.3
+        },
+        {
+          "name": "달콤한",
+          "score": 2.1
+        },
+        {
+          "name": "차분한",
+          "score": 2.05
+        }
+      ]
+    },
+    "fragrance_families": [
+      "FLORAL",
+      "FRESH",
+      "AMBERY"
+    ],
+    "fragrance_subs": [
+      "Soft Floral",
+      "Floral",
+      "Green",
+      "Soft Amber",
+      "Citrus",
+      "Fruity"
+    ],
+    "components": [
+      "Musk",
+      "Absolute Rose",
+      "Peony",
+      "Iris",
+      "Green Note",
+      "Bergamot",
+      "Absolute Jasmin",
+      "Berry, Apple, Peach",
+      "Marine",
+      "Ozonic"
+    ],
+    "components_ko": [
+      "머스크",
+      "앱솔루트 로즈",
+      "피오니",
+      "아이리스",
+      "그린노트",
+      "베르가못",
+      "앱솔루트 자스민",
+      "베리, 사과, 복숭아",
+      "마린",
+      "오조닉"
+    ],
+    "descriptors": [
+      "부드러운",
+      "우아한",
+      "상쾌한",
+      "밝은",
+      "세련된",
+      "감미로운",
+      "신선한",
+      "섬세한",
+      "달콤한",
+      "차분한"
+    ],
+    "query_sections": {
+      "visual_summary": "청록색과 검은색 체크무늬 드레스를 입은 여성이 실내에서 포즈를 취하고 있습니다.",
+      "visual_colors": [
+        "black",
+        "green",
+        "blue",
+        "pink",
+        "red"
+      ],
+      "visual_objects": [
+        "handbag",
+        "dress",
+        "necklace"
+      ],
+      "visual_scene": [
+        "indoor"
+      ],
+      "visual_mood": [
+        "soft",
+        "romantic"
+      ],
+      "visual_season": [
+        "spring"
+      ],
+      "visual_time": [
+        "afternoon"
+      ],
+      "visual_raw_keywords": [
+        "체크무늬",
+        "드레스",
+        "여성",
+        "실내",
+        "포즈",
+        "손가방",
+        "목걸이"
+      ],
+      "fragrance_families": [
+        "FLORAL",
+        "FRESH",
+        "AMBERY"
+      ],
+      "fragrance_subs": [
+        "Soft Floral",
+        "Floral",
+        "Green",
+        "Soft Amber",
+        "Citrus",
+        "Fruity"
+      ],
+      "fragrance_components": [
+        "Musk",
+        "Absolute Rose",
+        "Peony",
+        "Iris",
+        "Green Note",
+        "Bergamot",
+        "Absolute Jasmin",
+        "Berry, Apple, Peach",
+        "Marine",
+        "Ozonic"
+      ],
+      "fragrance_components_ko": [
+        "머스크",
+        "앱솔루트 로즈",
+        "피오니",
+        "아이리스",
+        "그린노트",
+        "베르가못",
+        "앱솔루트 자스민",
+        "베리, 사과, 복숭아",
+        "마린",
+        "오조닉"
+      ],
+      "fragrance_descriptors": [
+        "부드러운",
+        "우아한",
+        "상쾌한",
+        "밝은",
+        "세련된",
+        "감미로운",
+        "신선한",
+        "섬세한",
+        "달콤한",
+        "차분한"
+      ]
+    },
+    "query_text": "visual_summary:청록색과 검은색 체크무늬 드레스를 입은 여성이 실내에서 포즈를 취하고 있습니다. visual_color:black visual_color:green visual_color:blue visual_color:pink visual_color:red visual_object:handbag visual_object:dress visual_object:necklace visual_scene:indoor visual_mood:soft visual_mood:romantic visual_season:spring visual_time:afternoon visual_keyword:체크무늬 visual_keyword:드레스 visual_keyword:여성 visual_keyword:실내 visual_keyword:포즈 visual_keyword:손가방 visual_keyword:목걸이 fragrance_family:FLORAL fragrance_family:FRESH fragrance_family:AMBERY fragrance_sub:Soft Floral fragrance_sub:Floral fragrance_sub:Green fragrance_sub:Soft Amber fragrance_sub:Citrus fragrance_sub:Fruity fragrance_note:Musk fragrance_note:Absolute Rose fragrance_note:Peony fragrance_note:Iris fragrance_note:Green Note fragrance_note:Bergamot fragrance_note:Absolute Jasmin fragrance_note:Berry, Apple, Peach fragrance_note:Marine fragrance_note:Ozonic fragrance_note_ko:머스크 fragrance_note_ko:앱솔루트 로즈 fragrance_note_ko:피오니 fragrance_note_ko:아이리스 fragrance_note_ko:그린노트 fragrance_note_ko:베르가못 fragrance_note_ko:앱솔루트 자스민 fragrance_note_ko:베리, 사과, 복숭아 fragrance_note_ko:마린 fragrance_note_ko:오조닉 fragrance_descriptor:부드러운 fragrance_descriptor:우아한 fragrance_descriptor:상쾌한 fragrance_descriptor:밝은 fragrance_descriptor:세련된 fragrance_descriptor:감미로운 fragrance_descriptor:신선한 fragrance_descriptor:섬세한 fragrance_descriptor:달콤한 fragrance_descriptor:차분한",
+    "readable_query_text": "청록색과 검은색 체크무늬 드레스를 입은 여성이 실내에서 포즈를 취하고 있습니다. black green blue pink red handbag dress necklace indoor soft romantic spring afternoon 체크무늬 드레스 여성 실내 포즈 손가방 목걸이 FLORAL FRESH AMBERY Soft Floral Soft Amber Citrus Fruity Musk Absolute Rose Peony Iris Green Note Bergamot Absolute Jasmin Berry, Apple, Peach Marine Ozonic 머스크 앱솔루트 로즈 피오니 아이리스 그린노트 베르가못 앱솔루트 자스민 베리, 사과, 복숭아 마린 오조닉 부드러운 우아한 상쾌한 밝은 세련된 감미로운 신선한 섬세한 달콤한 차분한"
+  },
+  "query_text": "visual_summary:청록색과 검은색 체크무늬 드레스를 입은 여성이 실내에서 포즈를 취하고 있습니다. visual_color:black visual_color:green visual_color:blue visual_color:pink visual_color:red visual_object:handbag visual_object:dress visual_object:necklace visual_scene:indoor visual_mood:soft visual_mood:romantic visual_season:spring visual_time:afternoon visual_keyword:체크무늬 visual_keyword:드레스 visual_keyword:여성 visual_keyword:실내 visual_keyword:포즈 visual_keyword:손가방 visual_keyword:목걸이 fragrance_family:FLORAL fragrance_family:FRESH fragrance_family:AMBERY fragrance_sub:Soft Floral fragrance_sub:Floral fragrance_sub:Green fragrance_sub:Soft Amber fragrance_sub:Citrus fragrance_sub:Fruity fragrance_note:Musk fragrance_note:Absolute Rose fragrance_note:Peony fragrance_note:Iris fragrance_note:Green Note fragrance_note:Bergamot fragrance_note:Absolute Jasmin fragrance_note:Berry, Apple, Peach fragrance_note:Marine fragrance_note:Ozonic fragrance_note_ko:머스크 fragrance_note_ko:앱솔루트 로즈 fragrance_note_ko:피오니 fragrance_note_ko:아이리스 fragrance_note_ko:그린노트 fragrance_note_ko:베르가못 fragrance_note_ko:앱솔루트 자스민 fragrance_note_ko:베리, 사과, 복숭아 fragrance_note_ko:마린 fragrance_note_ko:오조닉 fragrance_descriptor:부드러운 fragrance_descriptor:우아한 fragrance_descriptor:상쾌한 fragrance_descriptor:밝은 fragrance_descriptor:세련된 fragrance_descriptor:감미로운 fragrance_descriptor:신선한 fragrance_descriptor:섬세한 fragrance_descriptor:달콤한 fragrance_descriptor:차분한"
+}
